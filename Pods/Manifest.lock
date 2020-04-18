@@ -1,0 +1,71 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Kingfisher (4.10.1)
+  - MBProgressHUD (1.2.0)
+  - R.swift (5.1.0):
+    - R.swift.Library (~> 5.1.0)
+  - R.swift.Library (5.1.0)
+  - Realm (3.18.0):
+    - Realm/Headers (= 3.18.0)
+  - Realm/Headers (3.18.0)
+  - RealmSwift (3.18.0):
+    - Realm (= 3.18.0)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+  - SkeletonView (1.8.7)
+  - SVPullToRefresh (0.4.1)
+  - SwiftyJSON (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.1)
+  - Kingfisher (~> 4.0)
+  - MBProgressHUD (~> 1.2.0)
+  - R.swift
+  - RealmSwift (~> 3.18.0)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SkeletonView
+  - SVPullToRefresh (from `https://github.com/witochandra/SVPullToRefresh.git`)
+  - SwiftyJSON (~> 3.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - MBProgressHUD
+    - R.swift
+    - R.swift.Library
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxSwift
+    - SkeletonView
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  SVPullToRefresh:
+    :git: https://github.com/witochandra/SVPullToRefresh.git
+
+CHECKOUT OPTIONS:
+  SVPullToRefresh:
+    :commit: ca69d4c08f56c09cb0653c9e624d0d44f34c896f
+    :git: https://github.com/witochandra/SVPullToRefresh.git
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  R.swift: 8cbc4fc69b740305b6a17c8a8ed968eb788962d9
+  R.swift.Library: fa85ce1e0d0b7e818cd9e080df910ba54d2776cc
+  Realm: 7b3d04740facf45e958a514b466a32b04f1113d6
+  RealmSwift: c817b5f374668cf08f649afb05f55d92a787649c
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SkeletonView: ba5370f41280b2f0a76918bb143c1294232bb4f4
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  SwiftyJSON: f57b2b44bc166617372d1c70773591fe9f0f5fd4
+
+PODFILE CHECKSUM: 4ca4bb58fde73ace05caf49cd8f72952fdf241c0
+
+COCOAPODS: 1.9.0
